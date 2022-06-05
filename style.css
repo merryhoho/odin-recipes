@@ -1,0 +1,52 @@
+
+.header {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.subheader#one {
+    font-style: Verdana, DejaVu Sans, sans-serif;
+    background-color: #FFF333;
+}
+
+.subsection#preview {
+    background-color: green;
+    color:white;
+    font-size: 18px;
+}
+
+button#primary {
+    background-color: orange;
+    color: white;
+    font-size: 18px;
+}
+
+button#secondary {
+    background-color: white;
+    color: black;
+    font-size: 18px;
+    stroke: pink;
+    stroke-width: 3px;
+}
+
+p {
+    background-color: white;
+    color: blue;
+    font-size: 14px;
+}
+
+.avatar.proportioned {
+    width: 300px;
+    height: auto;   
+}
+
+.header .p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
